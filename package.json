@@ -1,0 +1,25 @@
+{
+  "name": "liribot",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "inquirer": "^6.2.2",
+    "node-spotify-api": "^1.0.7"
+  },
+  "bin": {
+    "liri": "./index.js"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "liribot",
+    "homework"
+  ],
+  "author": "",
+  "license": "ISC"
+}
